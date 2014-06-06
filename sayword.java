@@ -27,7 +27,7 @@ public class sayword {
 	}
 	public static void main(String[] args) {
 		String[] st ={args[0],args[1],args[2]};		
-		String savepath = "/home/xqcao/Documents/java2jar/aaa";		
+		String savepath = "/home/Documents/java2jar/aaa";		
 		output2txt(st,st.length,savepath);
 	}
 }
